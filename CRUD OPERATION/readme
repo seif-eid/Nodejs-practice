@@ -1,0 +1,5 @@
+  
+to run the program and see the changed while running
+npm run dev
+to run it normally
+npm app.js
