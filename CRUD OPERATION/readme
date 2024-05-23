@@ -1,5 +1,22 @@
-  
+first run these commands
+-- npm init
+-- npm install express cors axios
+-- npm i nodemon     
+then
 to run the program and see the changed while running
 npm run dev
 to run it normally
 npm app.js
+
+
+to test the endpoints:
+create:
+post:http://localhost:3000/api/products
+read:
+get:http://localhost:3000/api/products
+get by id:
+get:http://localhost:3000/api/products/id
+update by id:
+put:http://localhost:3000/api/products/id
+delete by id:
+delete:http://localhost:3000/api/products/id
